@@ -90,6 +90,8 @@ The hough lines usefs a transformation in the cartesian plane, making the standa
 
 Add image of the correspondent transform.
 
+[Hough Lines]:https://docs.opencv.org/2.4/_images/Hough_Lines_Tutorial_Theory_0.jpg
+
 
 Add the formula for hough transform.
 

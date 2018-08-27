@@ -32,11 +32,11 @@ $$
 pip3 install jupyter
 $$
 
-You can also check the tool in general and docs related [https://jupyter.readthedocs.io/en/latest/index.html](here). 
+You can also check the tool in general and docs related [https://jupyter.readthedocs.io/en/latest/index.html](here  in this link). 
 
 ### Anaconda
 
-Anaconda is also a great environment for all the tools related in this type of projects so you can check these environment to install and work [https://docs.anaconda.com/anaconda/install/](here).
+Anaconda is also a great environment for all the tools related in this type of projects so you can check these environment to install and work [https://docs.anaconda.com/anaconda/install/](here in this link).
 
 Some packages can be installed as easy as this, which is interesting for some math tools and other that we'll be using.
 

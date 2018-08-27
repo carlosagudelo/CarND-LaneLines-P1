@@ -32,11 +32,11 @@ $$
 pip3 install jupyter
 $$
 
-You can also check the tool in general and docs related [https://jupyter.readthedocs.io/en/latest/index.html](here  in this link). 
+You can also check the tool in general and docs related [here  in this link](https://jupyter.readthedocs.io/en/latest/index.html ). 
 
 ### Anaconda
 
-Anaconda is also a great environment for all the tools related in this type of projects so you can check these environment to install and work [https://docs.anaconda.com/anaconda/install/](here in this link).
+Anaconda is also a great environment for all the tools related in this type of projects so you can check these environment to install and work [here](https://docs.anaconda.com/anaconda/install/).
 
 Some packages can be installed as easy as this, which is interesting for some math tools and other that we'll be using.
 
@@ -50,7 +50,7 @@ $$
 OpenCV means "Open-Source Computer Vision" which is a package that has many useful tools for analyzing images.  
 My recommendation is to install the ver. 3.0 for some cases it might be better to have the most recent version.
 
-To install and read other docs for reference check [https://docs.opencv.org/master/d7/d9f/tutorial_linux_install.htm](OpenCV for Linux)
+To install and read other docs for reference check [OpenCV for Linux](https://docs.opencv.org/master/d7/d9f/tutorial_linux_install.htm)
 
 
 

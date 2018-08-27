@@ -28,9 +28,9 @@ Jupyter is a well known environment/Framework to do some of the work involved.
 
 To install it use:
 
-
-> pip3 install jupyter
-
+```python
+pip3 install jupyter
+```
 
 You can also check the tool in general and docs related [here  in this link](https://jupyter.readthedocs.io/en/latest/index.html ). 
 
@@ -40,9 +40,9 @@ Anaconda is also a great environment for all the tools related in this type of p
 
 Some packages can be installed as easy as this, which is interesting for some math tools and other that we'll be using.
 
-
-> conda install package-name
-
+```python
+conda install package-name
+```
 
 
 ### OPENCV
@@ -62,15 +62,17 @@ The first step in order to see the different variables for the environment we ha
 
 Command to use
 
-> cv2.gray…..
-
+```python
+cv2.gray…..
+```
 
 ### Canny Edge Detector
 
 Using the tool canny edge we can have an image that is closer to something that we can haveas part of the identifier or track lane detector, in this case the use of canny edge function will lead to an environment of shapes when we have this type of images we can track easily the track path and other parts of the image.
 
-> Cv2.canny()
-
+```python
+Cv2.canny()
+```
 
 As you can see the images below this part of the process makes an image black with shapes.
 

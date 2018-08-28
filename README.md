@@ -66,13 +66,9 @@ Command to use
 cv2.cvtColor(img, cv2.COLOR_RGB2GRAY)
 ```
 
-https://github.com/carlosagudelo/CarND-LaneLines-P1/blob/master/test_images/output_edges_solidWhiteCurve.jpg
 
-https://github.com/carlosagudelo/CarND-LaneLines-P1/blob/master/test_images/output_gray_solidYellowCurve2.jpg
-
-https://github.com/carlosagudelo/CarND-LaneLines-P1/blob/master/test_images/output_gray_solidYellowLeft.jpg
-
-
+<img src="test_images/output_gray_solidYellowCurve2.jpg" width="480" alt="Output_EDGES_1" />
+<img src="test_images/output_gray_solidYellowLeft.jpg" width="480" alt="Output_EDGES_2" />
 
 ### Canny Edge Detector
 
@@ -84,11 +80,10 @@ cv2.Canny(img, low_threshold, high_threshold)
 
 As you can see the images below this part of the process makes an image black with shapes.
 
+<img src="test_images/output_edges_solidWhiteCurve.jpg" width="480" alt="Output_EDGES_1" />
+<img src="test_images/output_edges_solidYellowLeft.jpg" width="480" alt="Output_EDGES_2" />
 
-https://github.com/carlosagudelo/CarND-LaneLines-P1/blob/master/test_images/output_edges_solidWhiteCurve.jpg
 
-
-https://github.com/carlosagudelo/CarND-LaneLines-P1/blob/master/test_images/output_edges_solidYellowLeft.jpg
 
 But this is the first real way to identify the different changes in the image.
 

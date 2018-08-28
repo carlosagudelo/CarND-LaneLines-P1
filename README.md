@@ -112,7 +112,7 @@ The hough lines usefs a transformation in the cartesian plane, making the standa
 
 
 
-### IMG SHAPE
+### Image Shape
 
 Another important step is to maje definitions on the image, the way opencv handles the images is a little bit different from standard image processing, so you’ll see some changes in the axes, this is important as this is part of the future processing.
 

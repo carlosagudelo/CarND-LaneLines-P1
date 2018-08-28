@@ -66,6 +66,14 @@ Command to use
 cv2.cvtColor(img, cv2.COLOR_RGB2GRAY)
 ```
 
+https://github.com/carlosagudelo/CarND-LaneLines-P1/blob/master/test_images/output_edges_solidWhiteCurve.jpg
+
+https://github.com/carlosagudelo/CarND-LaneLines-P1/blob/master/test_images/output_gray_solidYellowCurve2.jpg
+
+https://github.com/carlosagudelo/CarND-LaneLines-P1/blob/master/test_images/output_gray_solidYellowLeft.jpg
+
+
+
 ### Canny Edge Detector
 
 Using the tool canny edge we can have an image that is closer to something that we can have as part of the identifier or track lane detector, in this case the use of canny edge function will lead to an environment of shapes when we have this type of images we can track easily the track path and other parts of the image.
@@ -77,6 +85,10 @@ cv2.Canny(img, low_threshold, high_threshold)
 As you can see the images below this part of the process makes an image black with shapes.
 
 
+https://github.com/carlosagudelo/CarND-LaneLines-P1/blob/master/test_images/output_edges_solidWhiteCurve.jpg
+
+
+https://github.com/carlosagudelo/CarND-LaneLines-P1/blob/master/test_images/output_edges_solidYellowLeft.jpg
 
 But this is the first real way to identify the different changes in the image.
 
@@ -130,7 +142,14 @@ The simplest way to do it is to save each point of each side, the take advantage
 
 In this case I did like this only for illustrative reasons, but you can actually use as described before the tools from numpy to make math processing.
 
-After this I complete the main task which is related to have a track lane recognition.
+After this I complete the main task which is related to have a track lane recognition for images.
+
+https://github.com/carlosagudelo/CarND-LaneLines-P1/blob/master/test_images/output_solidWhiteCurve.jpg
+https://github.com/carlosagudelo/CarND-LaneLines-P1/blob/master/test_images/output_solidWhiteRight.jpg
+https://github.com/carlosagudelo/CarND-LaneLines-P1/blob/master/test_images/output_solidYellowCurve.jpg
+https://github.com/carlosagudelo/CarND-LaneLines-P1/blob/master/test_images/output_solidYellowCurve2.jpg
+https://github.com/carlosagudelo/CarND-LaneLines-P1/blob/master/test_images/output_solidYellowLeft.jpg
+https://github.com/carlosagudelo/CarND-LaneLines-P1/blob/master/test_images/output_whiteCarLaneSwitch.jpg
 
 
 Check videos in source to see the results/…..

@@ -90,13 +90,13 @@ The hough lines usefs a transformation in the cartesian plane, making the standa
 
 
 > Hough Lines
-<img src="https://docs.opencv.org/2.4/_images/Hough_Lines_Tutorial_Theory_0.jpg" width="100" alt="Hough Lines" />
+<img src="https://docs.opencv.org/2.4/_images/Hough_Lines_Tutorial_Theory_0.jpg" width="250" alt="Hough Lines" />
 
 > Formula
-<img src="https://docs.opencv.org/2.4/_images/math/4bd47147fa216130bfeaf0e8911534dd4719ed9c.png" width="50" alt="Hough Transform" />
+<img src="https://docs.opencv.org/2.4/_images/math/4bd47147fa216130bfeaf0e8911534dd4719ed9c.png" width="200" alt="Hough Transform" />
 
 > Hough Plane
-<img src="https://docs.opencv.org/2.4/_images/Hough_Lines_Tutorial_Theory_1.jpg" width="100" alt="Hough Lines" />
+<img src="https://docs.opencv.org/2.4/_images/Hough_Lines_Tutorial_Theory_1.jpg" width="250" alt="Hough Lines" />
 
 
 

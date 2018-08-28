@@ -144,6 +144,8 @@ In this case I did like this only for illustrative reasons, but you can actually
 
 After this I complete the main task which is related to have a track lane recognition for images.
 
+<img src="test_images/output_solidWhiteCurve.jpg" width="480" alt="Output_Image_1" />
+
 https://github.com/carlosagudelo/CarND-LaneLines-P1/blob/master/test_images/output_solidWhiteCurve.jpg
 https://github.com/carlosagudelo/CarND-LaneLines-P1/blob/master/test_images/output_solidWhiteRight.jpg
 https://github.com/carlosagudelo/CarND-LaneLines-P1/blob/master/test_images/output_solidYellowCurve.jpg

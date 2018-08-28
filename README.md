@@ -145,19 +145,19 @@ In this case I did like this only for illustrative reasons, but you can actually
 After this I complete the main task which is related to have a track lane recognition for images.
 
 <img src="test_images/output_solidWhiteCurve.jpg" width="480" alt="Output_Image_1" />
+<img src="test_images/output_solidWhiteRight.jpg" width="480" alt="Output_Image_2" />
+<img src="test_images/output_solidYellowCurve.jpg" width="480" alt="Output_Image_3" />
+<img src="test_images/output_solidYellowCurve2.jpg" width="480" alt="Output_Image_4" />
+<img src="test_images/output_solidYellowLeft.jpg" width="480" alt="Output_Image_5" />
+<img src="test_images/output_solidYellowLeft.jpg" width="480" alt="Output_Image_6" />
+<img src="test_images/output_whiteCarLaneSwitch.jpg" width="480" alt="Output_Image_7" />
 
 https://github.com/carlosagudelo/CarND-LaneLines-P1/blob/master/test_images/output_solidWhiteCurve.jpg
-https://github.com/carlosagudelo/CarND-LaneLines-P1/blob/master/test_images/output_solidWhiteRight.jpg
-https://github.com/carlosagudelo/CarND-LaneLines-P1/blob/master/test_images/output_solidYellowCurve.jpg
-https://github.com/carlosagudelo/CarND-LaneLines-P1/blob/master/test_images/output_solidYellowCurve2.jpg
-https://github.com/carlosagudelo/CarND-LaneLines-P1/blob/master/test_images/output_solidYellowLeft.jpg
-https://github.com/carlosagudelo/CarND-LaneLines-P1/blob/master/test_images/output_whiteCarLaneSwitch.jpg
 
 
-Check videos in source to see the results/…..
+Check videos in source to see the results.
 
-
-
+[VIDEO FOLDER](https://github.com/carlosagudelo/CarND-LaneLines-P1/tree/master/test_videos_output)
 
 
 For the challenge I did some extra processing, which I tried and read before as a way to make better imeage processing and this is using an extra stage of coloring the image in order to see better the changes in different leves in each image, so the easiest way to do it is through  HSL filters, but also I realized that the image has this errors due to its increasing changes in the surrounded area, meaning that the way the image was captured and processed does not apply necessarily in every scenario, so it needs to have better way of processing.

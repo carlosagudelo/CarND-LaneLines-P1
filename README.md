@@ -19,7 +19,7 @@ The first procedure to get image processing is having some tools to make everyth
 
 
 # PIPELINE
----
+
 
 
 ### Jupyter notebooks
@@ -90,13 +90,13 @@ The hough lines usefs a transformation in the cartesian plane, making the standa
 
 
 > Hough Lines
-<img src="https://docs.opencv.org/2.4/_images/Hough_Lines_Tutorial_Theory_0.jpg" width="480" alt="Hough Lines" />
+<img src="https://docs.opencv.org/2.4/_images/Hough_Lines_Tutorial_Theory_0.jpg" width="100" alt="Hough Lines" />
 
 > Formula
-<img src="https://docs.opencv.org/2.4/_images/math/4bd47147fa216130bfeaf0e8911534dd4719ed9c.png" width="480" alt="Hough Transform" />
+<img src="https://docs.opencv.org/2.4/_images/math/4bd47147fa216130bfeaf0e8911534dd4719ed9c.png" width="50" alt="Hough Transform" />
 
 > Hough Plane
-<img src="https://docs.opencv.org/2.4/_images/Hough_Lines_Tutorial_Theory_1.jpg" width="480" alt="Hough Lines" />
+<img src="https://docs.opencv.org/2.4/_images/Hough_Lines_Tutorial_Theory_1.jpg" width="100" alt="Hough Lines" />
 
 
 
@@ -132,6 +132,8 @@ After this I complete the main task which is related to have a track lane recogn
 
 
 Check videos in source to see the results/…..
+
+
 
 
 

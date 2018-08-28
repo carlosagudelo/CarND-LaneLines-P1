@@ -148,12 +148,6 @@ After this I complete the main task which is related to have a track lane recogn
 
 <img src="test_images/output_solidYellowCurve.jpg" width="480" alt="Output_Image_3" />
 
-<img src="test_images/output_solidYellowLeft.jpg" width="480" alt="Output_Image_5" />
-
-<img src="test_images/output_whiteCarLaneSwitch.jpg" width="480" alt="Output_Image_7" />
-
-https://github.com/carlosagudelo/CarND-LaneLines-P1/blob/master/test_images/output_solidWhiteCurve.jpg
-
 
 Check videos in source to see the results.
 

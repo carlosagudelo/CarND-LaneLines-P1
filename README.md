@@ -88,14 +88,17 @@ OpenCV has some other tools that will help us to make better deffinitions of the
 
 The hough lines usefs a transformation in the cartesian plane, making the standard notation (x,y,z) a different notation known as hough transform which will convert the image into a (rho, theta) image almost like a polar coordinate that you see in a transformed plane.
 
-Add image of the correspondent transform.
 
-[Hough Lines]
+> Hough Lines
 <img src="https://docs.opencv.org/2.4/_images/Hough_Lines_Tutorial_Theory_0.jpg" width="480" alt="Hough Lines" />
 
+> Formula
+<img src="https://docs.opencv.org/2.4/_images/math/4bd47147fa216130bfeaf0e8911534dd4719ed9c.png" width="480" alt="Hough Transform" />
+
+> Hough Plane
+<img src="https://docs.opencv.org/2.4/_images/Hough_Lines_Tutorial_Theory_1.jpg" width="480" alt="Hough Lines" />
 
 
-Add the formula for hough transform.
 
 
 

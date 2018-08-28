@@ -63,18 +63,20 @@ The first step in order to see the different variables for the environment we ha
 Command to use
 
 ```python
-cv2.gray…..
+cv2.cvtColor(img, cv2.COLOR_RGB2GRAY)
 ```
 
 ### Canny Edge Detector
 
-Using the tool canny edge we can have an image that is closer to something that we can haveas part of the identifier or track lane detector, in this case the use of canny edge function will lead to an environment of shapes when we have this type of images we can track easily the track path and other parts of the image.
+Using the tool canny edge we can have an image that is closer to something that we can have as part of the identifier or track lane detector, in this case the use of canny edge function will lead to an environment of shapes when we have this type of images we can track easily the track path and other parts of the image.
 
 ```python
-Cv2.canny()
+cv2.Canny(img, low_threshold, high_threshold)
 ```
 
 As you can see the images below this part of the process makes an image black with shapes.
+
+
 
 But this is the first real way to identify the different changes in the image.
 

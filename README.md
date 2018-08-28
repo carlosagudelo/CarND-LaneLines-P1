@@ -145,11 +145,11 @@ In this case I did like this only for illustrative reasons, but you can actually
 After this I complete the main task which is related to have a track lane recognition for images.
 
 <img src="test_images/output_solidWhiteCurve.jpg" width="480" alt="Output_Image_1" />
-<img src="test_images/output_solidWhiteRight.jpg" width="480" alt="Output_Image_2" />
+
 <img src="test_images/output_solidYellowCurve.jpg" width="480" alt="Output_Image_3" />
-<img src="test_images/output_solidYellowCurve2.jpg" width="480" alt="Output_Image_4" />
+
 <img src="test_images/output_solidYellowLeft.jpg" width="480" alt="Output_Image_5" />
-<img src="test_images/output_solidYellowLeft.jpg" width="480" alt="Output_Image_6" />
+
 <img src="test_images/output_whiteCarLaneSwitch.jpg" width="480" alt="Output_Image_7" />
 
 https://github.com/carlosagudelo/CarND-LaneLines-P1/blob/master/test_images/output_solidWhiteCurve.jpg
